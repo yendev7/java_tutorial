@@ -22,3 +22,12 @@ class Person {
     - Il se fait dans deux classe qui ont une relation d'heritage. 
     - Les parametres doivent etre les memes (types et nombres).
     - Le type de retour doit etre identique et covariant (doit toujours garder la structure de l'autre).
+
+
+# L'heritage (Extends)
+    Si une classe B herite d'une classe A cela veut dire que la classe B est la classe A car il elle herite de toutes les propiétés de la classe A.
+
+# L'aggregation 
+
+# Super()
+    - utilisé pour appelé le contructeur du parent direct. 
